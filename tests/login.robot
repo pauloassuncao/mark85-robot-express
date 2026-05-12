@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation        Cenários de autenticação de usuários
+Documentation        Cenários de autenticação de usuários test
 
 Resource        ../resources/base.resource
 Library         Collections
